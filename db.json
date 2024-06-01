@@ -3,20 +3,114 @@
     {
       "id": 1,
       "title": "Inception",
-      "director": "Christopher Nolan",
-      "year": 2010
+      "image": "https://example.com/inception.jpg",
+      "description": "A mind-bending thriller by Christopher Nolan.",
+      "synopsis": "Dom Cobb is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: plant an idea in someone's mind, also known as inception.",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page",
+        "Tom Hardy"
+      ],
+      "release_date": "2010-07-16"
     },
     {
       "id": 2,
       "title": "The Matrix",
-      "director": "Lana Wachowski, Lilly Wachowski",
-      "year": 1999
+      "image": "https://example.com/thematrix.jpg",
+      "description": "A sci-fi classic that questions the nature of reality.",
+      "synopsis": "Thomas Anderson, a computer programmer, is led to a forbidding underworld by a mysterious hacker named Morpheus. There, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "cast": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving"
+      ],
+      "release_date": "1999-03-31"
     },
     {
       "id": 3,
       "title": "Interstellar",
-      "director": "Christopher Nolan",
-      "year": 2014
-    }
+      "image": "https://example.com/interstellar.jpg",
+      "description": "A science fiction epic exploring space and time.",
+      "synopsis": "In the future, Earth is slowly becoming uninhabitable. A group of astronauts travels through a wormhole near Saturn in search of a new home for humanity. Led by Cooper, a former pilot, they face the limits of human endurance and the vast expanses of space in their quest for survival.",
+      "cast": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine"
+      ],
+      "release_date": "2014-11-07"
+    },
+    {
+      "id": 4,
+      "title": "The Godfather",
+      "image": "https://example.com/thegodfather.jpg",
+      "description": "The epic tale of a 1940s New York Mafia family.",
+      "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. The film chronicles the family's rise and near fall from power and influence in New York's criminal underworld.",
+      "cast": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan",
+        "Diane Keaton"
+      ],
+      "release_date": "1972-03-24"
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "image": "https://example.com/pulpfiction.jpg",
+      "description": "A darkly comedic intertwining of stories in the criminal underworld.",
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption. Directed by Quentin Tarantino, the film is known for its eclectic dialogue, ironic mix of humor and violence, and a host of cinematic allusions and pop culture references.",
+      "cast": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson",
+        "Bruce Willis"
+      ],
+      "release_date": "1994-10-14"
+    },
+    {
+      "id": 6,
+      "title": "The Dark Knight",
+      "image": "https://example.com/thedarkknight.jpg",
+      "description": "The caped crusader faces his arch-nemesis, the Joker.",
+      "synopsis": "With the help of allies Lt. Jim Gordon and DA Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine"
+      ],
+      "release_date": "2008-07-18"
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "image": "https://example.com/fightclub.jpg",
+      "description": "A gritty tale of identity and masculinity.",
+      "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more. Their perfect partnership frays when Marla, a fellow support group crasher, attracts Tyler's attention.",
+      "cast": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Helena Bonham Carter",
+        "Meat Loaf"
+      ],
+      "release_date": "1999-10-15"
+    },
+    {
+      "id": 8,
+      "title": "Forrest Gump",
+      "image": "https://example.com/forrestgump.jpg",
+      "description": "The extraordinary life of an ordinary man.",
+      "synopsis": "Forrest Gump, a man with a low IQ, has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. Yet, despite all that he has achieved, his one true love, Jenny Curran, eludes him.",
+      "cast": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise",
+        "Sally Field"
+      ],
+      "release_date": "1994-07-06"
+    },
   ]
 }
