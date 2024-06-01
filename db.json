@@ -17,7 +17,7 @@
     {
       "id": 2,
       "title": "The Matrix",
-      "image": "https://example.com/thematrix.jpg",
+      "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/09/the-matrix-online-franchise-cover.jpg",
       "description": "A sci-fi classic that questions the nature of reality.",
       "synopsis": "Thomas Anderson, a computer programmer, is led to a forbidding underworld by a mysterious hacker named Morpheus. There, he discovers the shocking truth: the life he knows is the elaborate deception of an evil cyber-intelligence.",
       "cast": [
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "title": "Interstellar",
-      "image": "https://example.com/interstellar.jpg",
+      "image": "https://i.ytimg.com/vi/_xrIKZW5G3Q/maxresdefault.jpg",
       "description": "A science fiction epic exploring space and time.",
       "synopsis": "In the future, Earth is slowly becoming uninhabitable. A group of astronauts travels through a wormhole near Saturn in search of a new home for humanity. Led by Cooper, a former pilot, they face the limits of human endurance and the vast expanses of space in their quest for survival.",
       "cast": [
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "title": "The Godfather",
-      "image": "https://example.com/thegodfather.jpg",
+      "image": "https://www.eightieskids.com/wp-content/uploads/2020/08/CoverTheGodfatherFacts.jpg",
       "description": "The epic tale of a 1940s New York Mafia family.",
       "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son. The film chronicles the family's rise and near fall from power and influence in New York's criminal underworld.",
       "cast": [
@@ -59,7 +59,7 @@
     {
       "id": 5,
       "title": "Pulp Fiction",
-      "image": "https://example.com/pulpfiction.jpg",
+      "image": "https://cover.box3.net/newsimg/dvdmov/max1632717636-front-cover.jpg",
       "description": "A darkly comedic intertwining of stories in the criminal underworld.",
       "synopsis": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption. Directed by Quentin Tarantino, the film is known for its eclectic dialogue, ironic mix of humor and violence, and a host of cinematic allusions and pop culture references.",
       "cast": [
@@ -73,7 +73,7 @@
     {
       "id": 6,
       "title": "The Dark Knight",
-      "image": "https://example.com/thedarkknight.jpg",
+      "image": "https://cover.box3.net/newsimg/dvdmov/max1299511586-front-cover.jpg",
       "description": "Batman faces off against the Joker in a battle for Gotham's soul.",
       "synopsis": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
       "cast": [
@@ -87,7 +87,7 @@
     {
       "id": 7,
       "title": "Forrest Gump",
-      "image": "https://example.com/forrestgump.jpg",
+      "image": "https://cdn.wallpapersafari.com/65/40/UP2ujm.jpg",
       "description": "The story of an extraordinary man with a low IQ and a big heart.",
       "synopsis": "Forrest Gump, a man with a low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.",
       "cast": [
@@ -101,7 +101,7 @@
     {
       "id": 8,
       "title": "Fight Club",
-      "image": "https://example.com/fightclub.jpg",
+      "image": "https://vgboxart.com/boxes/MOVIE/31498-fight-club.jpg",
       "description": "An underground fight club leads to unexpected consequences.",
       "synopsis": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.",
       "cast": [
@@ -115,7 +115,7 @@
     {
       "id": 9,
       "title": "The Shawshank Redemption",
-      "image": "https://example.com/shawshankredemption.jpg",
+      "image": "https://cover.box3.net/newsimg/dvdmov/max1328901011-front-cover.jpg",
       "description": "The story of a man's resilience and hope in prison.",
       "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "cast": [
@@ -129,7 +129,7 @@
     {
       "id": 10,
       "title": "Gladiator",
-      "image": "https://example.com/gladiator.jpg",
+      "image": "https://i.ytimg.com/vi/epCHaFjoS2k/maxresdefault.jpg",
       "description": "A betrayed Roman general fights for vengeance.",
       "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
       "cast": [
